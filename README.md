@@ -1,4 +1,4 @@
-TeamPulse - Your operations, summarized daily—without spreadsheets.
+TeamPulse - Your operations, summarized daily without spreadsheets.
 
 TeamPulse is an AI-powered back-office assistant that reads daily business data, monitors operations, generates intelligent reports, answers natural-language questions, and proactively flags issues before they escalate.
 
